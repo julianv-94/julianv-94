@@ -58,7 +58,7 @@ Building fast math for real markets.
 ### 📬 Get in Touch
 
 [![Email](https://img.shields.io/badge/Email-jvarga7@gatech.edu-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jvarga7@gatech.edu)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/julianvarga)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/julian-varga-852593251/])
 <br>
 📍 Atlanta, GA
 
